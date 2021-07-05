@@ -15,6 +15,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Gerente de Loja, consiste em um aplicativo complemento do "loja virtual", permitindo ao usuário gerenciar o cadastro de novos produtos e gerenciar os pedidos recebidos.
 
+## 📱 Screenshots
+<div>
+  <img src="https://github.com/jhonathanqz/Gerente_loja/blob/master/screenshots/home1.jpg" width="600px" style="max-width:100%;" alt="imagem do projeto">
+</div>
+
 ## ▶️ Como executar
 
 - Clone o repositório
